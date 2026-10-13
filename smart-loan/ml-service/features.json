@@ -1,0 +1,15 @@
+{
+  "features": [
+    "income",
+    "expenses",
+    "total_emi",
+    "debt_to_income",
+    "outstanding_debt",
+    "liquid_savings",
+    "emergency_reserve",
+    "reserve_coverage",
+    "salary_reduction_pct",
+    "emergency_expense",
+    "interest_rate_change"
+  ]
+}
